@@ -15,4 +15,9 @@
 ## Settings Checklist
 
  * Keyboard delay
- 
+ * Power
+ * Login automatically
+   * `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\PasswordLess\Device`
+      * `DevicePasswordLessBuildVersion` -> `0`
+   * Run netplwiz
+      * Uncheck "Users must enter a password", etc
