@@ -18,6 +18,7 @@
 ## Drive Layout
 
 | Drive | Contents |
+|-------|----------|
 | D:\   | Everything else |
 | ??    | 2018+ Photos  |
 | S:\   | Other Photos
