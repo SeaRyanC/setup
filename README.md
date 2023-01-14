@@ -11,6 +11,9 @@
 | Discord | https://discord.com/ |
 | Graphics Driver | https://www.nvidia.com/en-us/geforce/game-ready-drivers/ |
 | VS Code | https://code.visualstudio.com/download |
+| VLC | https://www.videolan.org/vlc/download-windows.html |
+| Dropbox | https://www.dropbox.com/install |
+| Backblaze | https://www.backblaze.com/ |
 
 ## Settings Checklist
 
