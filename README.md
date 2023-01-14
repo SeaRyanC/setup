@@ -15,6 +15,13 @@
 | Dropbox | https://www.dropbox.com/install |
 | Backblaze | https://www.backblaze.com/ |
 
+## Drive Layout
+
+| Drive | Contents |
+| D:\   | Everything else |
+| ??    | 2018+ Photos  |
+| S:\   | Other Photos
+
 ## Settings Checklist
 
  * Keyboard delay
